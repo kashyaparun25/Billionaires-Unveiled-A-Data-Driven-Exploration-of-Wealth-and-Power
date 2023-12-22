@@ -2,6 +2,8 @@
 
 ## The dataset provides the following information about the world's billionaires in 2022:
 
+
+
 Unnamed: 0: An index or identifier column.
 
 Rank: The ranking of the billionaire.
